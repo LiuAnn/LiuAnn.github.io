@@ -84,14 +84,14 @@
       core_tech: 'JavaScript',
       description: '对JavaScript正则表达式和字符串的练习。'
     }, {
-      demo_link: 'http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/index.html',
+      demo_link: 'http://gaohaoyang.github.io/ife/task/task0002/work/Gaohaoyang/home.html',
       img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/demo-demo-index.png',
       code_link: 'https://github.com/Gaohaoyang/ife/tree/master/task/task0002/work/Gaohaoyang',
       title: '百度前端学院 task0002 展示主页',
       core_tech: 'HTML CSS',
       description: '任务二的展示主页，里面包含五个小 demo。还有一篇相关的<a href="http://gaohaoyang.github.io/2015/04/22/baidu-ife-2-javascript/" target="_blank">日志。</a>'
     }, {
-      demo_link: 'http://gaohaoyang.github.io/ife/task/task0001/work/Gaohaoyang/index.html',
+      demo_link: 'http://gaohaoyang.github.io/ife/task/task0001/work/Gaohaoyang/home.html',
       img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/Demo-blog-ife.jpg',
       code_link: 'https://github.com/Gaohaoyang/ife/tree/master/task/task0001/work/Gaohaoyang',
       title: '百度前端学院 task0001 个人博客',
